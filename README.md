@@ -24,6 +24,6 @@ Indien je geen stijl moest hebben aan de admin kant, voer dan even volgend comma
 `php bin/magento setup:static-content:deploy -f`
 
 Dit kan je best doen vanuit de aangemaakte folder na het deployen. 
-Dit is normaal gezien {schijf}:\chef\_apps\chf_magento_xxxx\runtime\php
+Dit is normaal gezien {schijf}:\chef\_apps\chf_magento_xxxx\app
 
 
